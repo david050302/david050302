@@ -1,5 +1,14 @@
 # 💫 About Me:
-¡Hola! Soy David Baldeón, estudiante universitario de Ingeniería en Sistemas y un apasionado por la tecnología. Me motiva la idea de seguir aprendiendo cada día y aplicar mis conocimientos en el desarrollo de soluciones reales.<br><br> Tengo experiencia en tecnologías como:<br><br>Frontend: HTML, CSS, JavaScript, TypeScript y Angular<br><br>Backend: Java con el framework Spring Boot<br><br>Desarrollo mobile: Android Studio con Java<br><br>Bases de datos: SQL y MySQL (bases de datos relacionales)<br><br>Control de versiones: Git<br><br>Estoy en constante búsqueda de retos que me ayuden a crecer como desarrollador y aportar valor a los proyectos en los que participo. Me esfuerzo por escribir código limpio, bien estructurado y siempre con disposición a aprender y mejorar.
+¡Hola! Soy David Baldeón, estudiante de Ingeniería en Sistemas, curioso por naturaleza y apasionado por todo lo relacionado con la tecnología. Me entusiasma transformar ideas en soluciones funcionales, eficientes y bien pensadas.
+
+Desde que descubrí la programación, supe que quería dedicarme a crear, optimizar y construir cosas que realmente marquen la diferencia. Me considero una persona autodidacta, siempre en busca de aprender algo nuevo, mejorar mis habilidades y asumir retos que me saquen de la zona de confort.
+
+Actualmente estoy formándome tanto académicamente como por mi cuenta, trabajando en proyectos personales que me permiten aplicar lo aprendido y explorar nuevas tecnologías, con una mentalidad enfocada en el crecimiento continuo.
+
+Estoy convencido de que el código no solo debe funcionar, también debe entenderse. Por eso me esfuerzo en escribir soluciones limpias, mantenibles y pensadas para el trabajo en equipo.
+
+Gracias por visitar mi perfil.
+No dudes en contactarme si estás interesado en colaborar, compartir ideas o si estás buscando a alguien con actitud, compromiso y muchas ganas de seguir creciendo.
 
 
 ## 🌐 Socials:
